@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4e0973d4-1f09-4a03-a16a-0ed776842221" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/$CACHE_FILE$" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/ecl5pse.github.io.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,6 +77,7 @@
       <workItem from="1578003586651" duration="715000" />
       <workItem from="1578320915918" duration="676000" />
       <workItem from="1579007277664" duration="951000" />
+      <workItem from="1579046501531" duration="828000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1577996117444</created>
@@ -134,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579007598296</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add teamCard">
+      <created>1579046557852</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1579046557852</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,20 +146,21 @@
     <MESSAGE value="add footer and update scss" />
     <MESSAGE value="update" />
     <MESSAGE value="mobile first" />
-    <option name="LAST_COMMIT_MESSAGE" value="mobile first" />
+    <MESSAGE value="add teamCard" />
+    <option name="LAST_COMMIT_MESSAGE" value="add teamCard" />
   </component>
   <component name="WindowStateProjectService">
     <state x="281" y="31" key="#Project_Structure" timestamp="1577995976064">
       <screen x="0" y="0" width="1366" height="740" />
     </state>
     <state x="281" y="31" key="#Project_Structure/0.0.1366.740@0.0.1366.740" timestamp="1577995976064" />
-    <state x="283" y="0" width="799" height="742" key="CommitChangelistDialog2" timestamp="1579007598087">
+    <state x="283" y="0" width="799" height="740" key="CommitChangelistDialog2" timestamp="1579048129649">
       <screen x="0" y="0" width="1366" height="740" />
     </state>
-    <state x="283" y="0" width="799" height="742" key="CommitChangelistDialog2/0.0.1366.740@0.0.1366.740" timestamp="1579007598087" />
-    <state x="281" y="105" width="804" height="531" key="Vcs.Push.Dialog.v2" timestamp="1579007407779">
+    <state x="283" y="0" width="799" height="740" key="CommitChangelistDialog2/0.0.1366.740@0.0.1366.740" timestamp="1579048129649" />
+    <state x="281" y="105" width="804" height="531" key="Vcs.Push.Dialog.v2" timestamp="1579046561843">
       <screen x="0" y="0" width="1366" height="740" />
     </state>
-    <state x="281" y="105" width="804" height="531" key="Vcs.Push.Dialog.v2/0.0.1366.740@0.0.1366.740" timestamp="1579007407779" />
+    <state x="281" y="105" width="804" height="531" key="Vcs.Push.Dialog.v2/0.0.1366.740@0.0.1366.740" timestamp="1579046561843" />
   </component>
 </project>
