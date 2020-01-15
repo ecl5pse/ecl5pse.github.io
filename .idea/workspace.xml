@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4e0973d4-1f09-4a03-a16a-0ed776842221" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/$CACHE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/ecl5pse.github.io.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Vr0ab3jAzo2sVUd9sMvJMDlJ3u" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.14.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="$USER_HOME$/.nvm/versions/node/v12.14.0/bin/node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/build" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e0973d4-1f09-4a03-a16a-0ed776842221" name="Default Changelist" comment="" />
+      <created>1577995970490</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577995970490</updated>
+      <workItem from="1577995974717" duration="685000" />
+      <workItem from="1578003586651" duration="715000" />
+      <workItem from="1578320915918" duration="676000" />
+      <workItem from="1579007277664" duration="951000" />
+    </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1577996117444</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577996117444</updated>
+    </task>
+    <task id="LOCAL-00002" summary="first commit">
+      <created>1577996362342</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1577996362342</updated>
+    </task>
+    <task id="LOCAL-00003" summary="first commit">
+      <created>1577996471108</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1577996471108</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add footer and update scss">
+      <created>1578003656646</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1578003656646</updated>
+    </task>
+    <task id="LOCAL-00005" summary="update">
+      <created>1578320983872</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1578320983872</updated>
+    </task>
+    <task id="LOCAL-00006" summary="mobile first">
+      <created>1579007340750</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1579007340750</updated>
+    </task>
+    <task id="LOCAL-00007" summary="mobile first">
+      <created>1579007598296</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1579007598296</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <MESSAGE value="add footer and update scss" />
+    <MESSAGE value="update" />
+    <MESSAGE value="mobile first" />
+    <option name="LAST_COMMIT_MESSAGE" value="mobile first" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="281" y="31" key="#Project_Structure" timestamp="1577995976064">
+      <screen x="0" y="0" width="1366" height="740" />
+    </state>
+    <state x="281" y="31" key="#Project_Structure/0.0.1366.740@0.0.1366.740" timestamp="1577995976064" />
+    <state x="283" y="0" width="799" height="742" key="CommitChangelistDialog2" timestamp="1579007598087">
+      <screen x="0" y="0" width="1366" height="740" />
+    </state>
+    <state x="283" y="0" width="799" height="742" key="CommitChangelistDialog2/0.0.1366.740@0.0.1366.740" timestamp="1579007598087" />
+    <state x="281" y="105" width="804" height="531" key="Vcs.Push.Dialog.v2" timestamp="1579007407779">
+      <screen x="0" y="0" width="1366" height="740" />
+    </state>
+    <state x="281" y="105" width="804" height="531" key="Vcs.Push.Dialog.v2/0.0.1366.740@0.0.1366.740" timestamp="1579007407779" />
+  </component>
+</project>
