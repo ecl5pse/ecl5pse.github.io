@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4e0973d4-1f09-4a03-a16a-0ed776842221" name="Default Changelist" comment="">
+    <list default="true" id="4e0973d4-1f09-4a03-a16a-0ed776842221" name="Default Changelist" comment="sync with dev">
+      <change afterPath="$PROJECT_DIR$/images/avatorUser.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.main.js" beforeDir="false" afterPath="$PROJECT_DIR$/1.main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,6 +15,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/ecl5pse/ecl5pse.github.io.git" />
+      </set>
+    </option>
   </component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
@@ -43,7 +54,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -77,7 +88,10 @@
       <workItem from="1578003586651" duration="715000" />
       <workItem from="1578320915918" duration="676000" />
       <workItem from="1579007277664" duration="951000" />
-      <workItem from="1579046501531" duration="828000" />
+      <workItem from="1579046501531" duration="957000" />
+      <workItem from="1579204119794" duration="73000" />
+      <workItem from="1581364447547" duration="626000" />
+      <workItem from="1581365087098" duration="439000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1577996117444</created>
@@ -135,32 +149,87 @@
       <option name="project" value="LOCAL" />
       <updated>1579046557852</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="fix json">
+      <created>1579048158040</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1579048158040</updated>
+    </task>
+    <task id="LOCAL-00010" summary="update mobile view">
+      <created>1579204190680</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1579204190680</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="first commit" />
     <MESSAGE value="add footer and update scss" />
     <MESSAGE value="update" />
     <MESSAGE value="mobile first" />
     <MESSAGE value="add teamCard" />
-    <option name="LAST_COMMIT_MESSAGE" value="add teamCard" />
+    <MESSAGE value="fix json" />
+    <MESSAGE value="update mobile view" />
+    <MESSAGE value="sync with dev" />
+    <option name="LAST_COMMIT_MESSAGE" value="sync with dev" />
   </component>
   <component name="WindowStateProjectService">
     <state x="281" y="31" key="#Project_Structure" timestamp="1577995976064">
       <screen x="0" y="0" width="1366" height="740" />
     </state>
     <state x="281" y="31" key="#Project_Structure/0.0.1366.740@0.0.1366.740" timestamp="1577995976064" />
-    <state x="283" y="0" width="799" height="740" key="CommitChangelistDialog2" timestamp="1579048129649">
+    <state x="283" y="0" width="799" height="742" key="CommitChangelistDialog2" timestamp="1581365605260">
       <screen x="0" y="0" width="1366" height="740" />
     </state>
-    <state x="283" y="0" width="799" height="740" key="CommitChangelistDialog2/0.0.1366.740@0.0.1366.740" timestamp="1579048129649" />
-    <state x="281" y="105" width="804" height="531" key="Vcs.Push.Dialog.v2" timestamp="1579046561843">
+    <state x="283" y="0" width="799" height="742" key="CommitChangelistDialog2/0.0.1366.740@0.0.1366.740" timestamp="1581365605260" />
+    <state x="469" y="127" key="FileChooserDialogImpl" timestamp="1581365275998">
       <screen x="0" y="0" width="1366" height="740" />
     </state>
-    <state x="281" y="105" width="804" height="531" key="Vcs.Push.Dialog.v2/0.0.1366.740@0.0.1366.740" timestamp="1579046561843" />
+    <state x="469" y="127" key="FileChooserDialogImpl/0.0.1366.740@0.0.1366.740" timestamp="1581365275998" />
+    <state x="182" y="4" key="SettingsEditor" timestamp="1581365528666">
+      <screen x="0" y="0" width="1366" height="740" />
+    </state>
+    <state x="182" y="4" key="SettingsEditor/0.0.1366.740@0.0.1366.740" timestamp="1581365528666" />
+    <state x="281" y="105" width="804" height="531" key="Vcs.Push.Dialog.v2" timestamp="1581365131785">
+      <screen x="0" y="0" width="1366" height="740" />
+    </state>
+    <state x="281" y="105" width="804" height="531" key="Vcs.Push.Dialog.v2/0.0.1366.740@0.0.1366.740" timestamp="1581365131785" />
+    <state x="100" y="100" width="1166" height="540" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1581364958148">
+      <screen x="0" y="0" width="1366" height="740" />
+    </state>
+    <state x="100" y="100" width="1166" height="540" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1366.740@0.0.1366.740" timestamp="1581364958148" />
+    <state x="430" y="32" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1581365511246">
+      <screen x="0" y="0" width="1366" height="740" />
+    </state>
+    <state x="430" y="32" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.740@0.0.1366.740" timestamp="1581365511246" />
+    <state x="478" y="237" key="git4idea.rebase.GitRebaseDialog" timestamp="1581365324541">
+      <screen x="0" y="0" width="1366" height="740" />
+    </state>
+    <state x="478" y="237" key="git4idea.rebase.GitRebaseDialog/0.0.1366.740@0.0.1366.740" timestamp="1581365324541" />
+    <state x="465" y="272" key="git4idea.ui.GitStashDialog" timestamp="1581365256210">
+      <screen x="0" y="0" width="1366" height="740" />
+    </state>
+    <state x="465" y="272" key="git4idea.ui.GitStashDialog/0.0.1366.740@0.0.1366.740" timestamp="1581365256210" />
   </component>
 </project>
